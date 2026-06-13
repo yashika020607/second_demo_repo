@@ -1,2 +1,3 @@
 # second_demo_repo
-this repo made for myself
+this repo made for myself<br>
+let's connect together!
